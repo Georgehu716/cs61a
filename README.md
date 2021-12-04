@@ -12,3 +12,6 @@ CS 61A: Structure and Interpretation of Computer Programs.
 lecture 1: Computer Science
 
 - [x] Video
+- [x] slide
+- [x] 01.py
+
