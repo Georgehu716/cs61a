@@ -34,15 +34,13 @@ test = {
           >>> y = 5
           >>> y = y + 3
           >>> y * 2
-          309984ef0dc06025a91b127042939a0e
-          # locked
+          16
           >>> y = y // 4
           >>> y + x
-          3d3ab69a0677d75a0ef4a99e0d2d1451
-          # locked
+          22
           """,
           'hidden': False,
-          'locked': True
+          'locked': False
         }
       ],
       'scored': False,
